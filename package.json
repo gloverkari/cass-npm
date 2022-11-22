@@ -39,7 +39,7 @@
 		}
 	],
 	"dependencies": {
-		"axios": "^0.21.1",
+		"axios": "^1.2.0",
 		"base64-arraybuffer": "^0.2.0",
 		"forge": "^2.3.0",
 		"form-data": "^2.1.2",
